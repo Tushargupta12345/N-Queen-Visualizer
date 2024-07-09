@@ -15,4 +15,5 @@ That means
 This is a visualization of the N Queen problem made with html , css, javascipt. Using *backtracking* and *dynamic programming*. observe how we reach to the solution by placing the queens strategically to find the answer in the most optimize way.
 
 ### Screenshot
+
 ![visualisation](https://github.com/Tushargupta12345/N-Queen-Visualizer/assets/123641269/854f55ed-7ce7-4909-990e-05b6fb4fc6bd)
